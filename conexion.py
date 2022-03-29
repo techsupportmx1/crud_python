@@ -1,6 +1,6 @@
 """
 	CRUD con MySQL y Python 3
-	Ph.D. Aldo González Vázquez
+	Aldo Gonzalez Vazquez
 """
 import pymysql
 try:
